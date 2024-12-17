@@ -38,7 +38,7 @@ Please be aware that:
 
 - I will **only re-locate at the employer expense**.
 - I will need **two weeks of time** to re-locate.
-- The net amount of the re-location benefit **MUST be at least 5,000.00** to fully compensate me for the time/effort to re-locate.
+- The net amount of the re-location benefit **MUST be at least $5000.00** to fully compensate me for the time/effort to re-locate.
 - The full re-location benefit **must be provided prior to the confirmed start date**.
 - I **will NOT** accept a reimbursement based re-location package.
 - I am happy to come onsite (at client expense (paid up front)) for training/orientation etc.
